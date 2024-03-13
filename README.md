@@ -1,1 +1,2 @@
-# TP IA - Réalisé par Jacques Battaglini, Frédéric Turcq Santucci, Stéphane Thiry
+# TP IA 
+## Réalisé par Jacques Battaglini, Frédéric Turcq Santucci, Stéphane Thiry
